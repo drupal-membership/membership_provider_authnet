@@ -1,0 +1,7 @@
+name: Authorize.Net Membership Provider
+type: module
+description: Membership Provider for NETBilling
+core_version_requirement: ^9
+package: Membership
+dependencies:
+  - membership_commerce:membership_commerce
